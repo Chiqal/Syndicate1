@@ -1,1 +1,3 @@
-Thanks for HANNAVY-KOPLAXS
+Syndicate1.py
+
+Thanks for hanavy
